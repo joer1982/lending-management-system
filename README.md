@@ -86,23 +86,23 @@ It provides a centralized place to manage lending operations and monitor busines
 
 ### Dashboard
 
-![Lending Management Dashboard](screenshots/dashboard.png)
+![Lending Management Dashboard](screenshots/lending-basic.png)
 
 ### Capital
 
-![Borrower Management](screenshots/borrower-management.png)
+![Borrower Management](screenshots/capital.png)
 
 ### Loan Application
 
-![Loan Application](screenshots/loan-application.png)
+![Loan Application](screenshots/apply-loan.png)
 
 ### Payment Schedule
 
-![Payment Schedule](screenshots/payment-schedule.png)
+![Payment Schedule](screenshots/pay-loan.png)
 
 ### Payment Tracking
 
-![Payment Tracking](screenshots/payment-tracking.png)
+![Payment Tracking](screenshots/expense.png)
 
 
 
