@@ -56,17 +56,17 @@ The management dashboard provides an overview of:
 
 ## 🔄 How It Works
 
-```text
+
 Borrower
-    ↓
+    > 
 Loan Application
-    ↓
+    > 
 Loan Approval
-    ↓
+    > 
 Payment Schedule
-    ↓
+    > 
 Payment Recording
-    ↓
+    > 
 Dashboard & Reports
 
 
