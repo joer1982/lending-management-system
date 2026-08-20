@@ -75,10 +75,10 @@ Dashboard & Reports
 
 The system helps reduce:
 
-Manual data entry
-Spreadsheet errors
-Repetitive calculations
-Time spent creating reports
+- Manual data entry
+- Spreadsheet errors
+- Repetitive calculations
+- Time spent creating reports
 
 It provides a centralized place to manage lending operations and monitor business performance.
 
