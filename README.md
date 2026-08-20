@@ -82,14 +82,27 @@ The system helps reduce:
 
 It provides a centralized place to manage lending operations and monitor business performance.
 
-### 📸 Screenshots
+## 📸 Screenshots
 
-<img width="1104" height="720" alt="Lending Look2" src="https://github.com/user-attachments/assets/0e76bf60-ec85-4766-a381-b7350a7e4c65" />
-<img width="288" height="719" alt="Borrowers Form" src="https://github.com/user-attachments/assets/ace2f408-23d0-4432-8c62-3cc6f54ba093" />
-<img width="1913" height="943" alt="capital" src="https://github.com/user-attachments/assets/f0a7bc2f-7794-44d7-bc08-0cca604ea7fd" />
-<img width="1909" height="909" alt="apply loan" src="https://github.com/user-attachments/assets/fa7618fe-77fd-49f5-af8a-be872f129b28" />
-<img width="1907" height="894" alt="pay loan" src="https://github.com/user-attachments/assets/bfc212b1-5091-4264-8713-4dd9bd018897" />
-<img width="1905" height="940" alt="expense" src="https://github.com/user-attachments/assets/3490d3bc-e17d-4745-b359-78ec28c8c863" />
+### Dashboard
+
+![Lending Management Dashboard](screenshots/dashboard.png)
+
+### Borrower Management
+
+![Borrower Management](screenshots/borrower-management.png)
+
+### Loan Application
+
+![Loan Application](screenshots/loan-application.png)
+
+### Payment Schedule
+
+![Payment Schedule](screenshots/payment-schedule.png)
+
+### Payment Tracking
+
+![Payment Tracking](screenshots/payment-tracking.png)
 
 
 
