@@ -110,7 +110,7 @@ It provides a centralized place to manage lending operations and monitor busines
 
 
 
-### 👨‍💻 Developer
+## 👨‍💻 Developer
 
 Joer Torrero
 
