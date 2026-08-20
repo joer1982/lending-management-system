@@ -84,25 +84,25 @@ It provides a centralized place to manage lending operations and monitor busines
 
 ## 📸 Screenshots
 
-### Dashboard
+### 🏠 Main Dashboard
 
-![Lending Management Dashboard](screenshots/lending-basic.png)
+<img width="100%" alt="Lending Management Dashboard" src="https://github.com/user-attachments/assets/36152bf6-29c2-49ea-bd8a-dc3ea07c4e5e" />
 
-### Capital
+### 💰 Capital Management
 
-![Borrower Management](screenshots/capital.png)
+<img width="100%" alt="Capital Management" src="https://github.com/user-attachments/assets/7948aa20-7248-48b4-859b-ba37491f4bf5" />
 
-### Loan Application
+### 📝 Loan Application
 
-![Loan Application](screenshots/apply-loan.png)
+<img width="100%" alt="Loan Application" src="https://github.com/user-attachments/assets/950b59d5-dcd2-4a1c-989f-d93282c95b00" />
 
-### Payment Schedule
+### 💵 Payment Management
 
-![Payment Schedule](screenshots/pay-loan.png)
+<img width="100%" alt="Payment Management" src="https://github.com/user-attachments/assets/0730970d-0f4b-42ef-a363-f8daacc66978" />
 
-### Payment Tracking
+### 📊 Expense Management
 
-![Payment Tracking](screenshots/expense.png)
+<img width="100%" alt="Expense Management" src="https://github.com/user-attachments/assets/95456c8c-409b-4e61-b587-427291c5ff85" />
 
 
 
