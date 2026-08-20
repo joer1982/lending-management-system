@@ -56,7 +56,7 @@ The management dashboard provides an overview of:
 
 ## 🔄 How It Works
 
-```text
+
 Borrower
     ↓
 Loan Application
