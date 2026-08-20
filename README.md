@@ -88,7 +88,7 @@ It provides a centralized place to manage lending operations and monitor busines
 
 ![Lending Management Dashboard](screenshots/dashboard.png)
 
-### Borrower Management
+### Capital
 
 ![Borrower Management](screenshots/borrower-management.png)
 
@@ -107,9 +107,6 @@ It provides a centralized place to manage lending operations and monitor busines
 
 
 
-
-### 💰 Lending Management App Version 2
-<img width="1024" height="1536" alt="poster Lending 2" src="https://github.com/user-attachments/assets/f2d60936-e876-47db-8ce9-0f91156e4bc9" />
 
 
 
