@@ -68,10 +68,10 @@ Payment Schedule
 Payment Recording
     ↓
 Dashboard & Reports
-```text
 
 
-## 🎯 Business Benefits
+
+🎯 Business Benefits
 
 The system helps reduce:
 
@@ -82,7 +82,7 @@ Time spent creating reports
 
 It provides a centralized place to manage lending operations and monitor business performance.
 
-## 📸 Screenshots
+📸 Screenshots
 
 <img width="1104" height="720" alt="Lending Look2" src="https://github.com/user-attachments/assets/0e76bf60-ec85-4766-a381-b7350a7e4c65" />
 
@@ -90,7 +90,7 @@ It provides a centralized place to manage lending operations and monitor busines
 
 <img width="1024" height="1536" alt="poster Lending 2" src="https://github.com/user-attachments/assets/f2d60936-e876-47db-8ce9-0f91156e4bc9" />
 
-## 👨‍💻 Developer
+👨‍💻 Developer
 
 Joer Torrero
 
